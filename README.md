@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/351403602.svg)](https://zenodo.org/badge/latestdoi/351403602)
+[![DOI](https://zenodo.org/badge/351403602.svg)]()
 
 # Introduction
 This project consists of two notebooks that are using the [Julia](https://julialang.org) programming language.
