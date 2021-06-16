@@ -13,7 +13,7 @@ The notebook [evaluation.ipynb](evaluation.ipynb) explaines how to read these da
 The full results are currently being used to prepare a manuscript.
 
 # Running the notebooks
-If you don't want to install anything you can simply use the following binder link (note that the interactive plot does not work in Binder): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teokem/project-work-2021-si8881wo/HEAD)
+If you don't want to install anything you can simply use the following binder link (note that the interactive plot does not work in Binder): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/si8881wo/TI/HEAD)
 
 To run it locally on your computer simply download this repo and unzip it.
 I'm assuming you have a conda installation and can run jupyter notebook.
